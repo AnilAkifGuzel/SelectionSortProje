@@ -24,3 +24,5 @@ Average case'e girer.
 3. Aşama: [2,3,4,8,7,9,5,15,6] 4, 5 ile yer değiştirdi. 
 4. Aşama: [2,3,4,5,7,9,8,15,6] 5, 8 ile yer değiştirdi. 
 
+
+https://app.patika.dev/azeel
